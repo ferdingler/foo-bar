@@ -1,5 +1,5 @@
 customHeaders:
-  - pattern: '**'
+  - pattern: '**/*'
     headers:
     - key: 'custom-header-name-1'
       value: 'custom-header-value-1'
